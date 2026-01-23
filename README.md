@@ -4,6 +4,14 @@ An AI-powered **symptom-based risk suggestion system** built using machine learn
 This project demonstrates how ensemble models behave when predicting possible
 medical conditions from user-reported symptoms.
 
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-red?logo=streamlit)](https://symptom-based-disease-prediction-daqzgg5udsnusqgwuhegap.streamlit.app/)
+
+
+🔗 **Live Demo:** https://symptom-based-disease-prediction-daqzgg5udsnusqgwuhegap.streamlit.app/
+
+
+
+
 ⚠️ **Disclaimer:**  
 This system is for **educational purposes only** and **must not be used for medical diagnosis**.
 
@@ -104,3 +112,4 @@ streamlit run app.py
 The app will open in your browser at `http://localhost:8501`.
 
 ---
+
